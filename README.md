@@ -1,5 +1,6 @@
 # notas
 
+```
 Options:
       --help     Show help                                             [boolean]
       --version  Show version number                                   [boolean]
@@ -7,3 +8,4 @@ Options:
   -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
   -h, --hasta    Es el limite de hasta donde debe hacer la multiplicacion
                                                           [number] [default: 10]
+```
